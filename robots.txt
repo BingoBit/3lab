@@ -4,4 +4,4 @@ Disallow: /cart/
 Disallow: /checkout/
 Allow: /
 
-Sitemap: https://gloutok.ru/sitemap.xml
+Sitemap: https://https://bingobit.github.io/3lab/sitemap.xml
